@@ -21,8 +21,11 @@ immersive installation
 
 ## Project Images
 <image src="images/EmbeddedEmboddied.jpeg">
+<small><em>Image Description Here</em></small>
 <image src="images/ins_still_eq_4.jpg">
+<small><em>Image Description Here</em></small>
 <image src="images/WhatsApp Image 2024-06-05 at 21.06.10_fa16c029.jpg">
+<small><em>Image Description Here</em></small>
 
 ## Playtest Feedback
 <a href="https://youtu.be/KsOUHFzbIe4">Play testing</a>
